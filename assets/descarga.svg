@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice">
+  <!--
+    Placeholder photograph for the whole site.
+    Replace every <img> using "@/assets/placeholder.svg" with the original
+    photography as soon as it is available (see src/content/en.ts image fields).
+  -->
+  <rect width="1600" height="1000" fill="#DCD4C5"/>
+  <circle cx="1150" cy="290" r="95" fill="#B96A49" opacity="0.5"/>
+  <path d="M0 640 L420 400 L760 600 L1080 380 L1600 620" fill="none" stroke="#34443A" stroke-width="10" stroke-linejoin="round" opacity="0.35"/>
+  <path d="M0 700 L500 520 L900 700 L1300 560 L1600 680 L1600 1000 L0 1000 Z" fill="#34443A" opacity="0.22"/>
+  <rect x="0" y="780" width="1600" height="220" fill="#F8F8F3" opacity="0.55"/>
+  <g font-family="Georgia, 'Times New Roman', serif" text-anchor="middle" fill="#171816">
+    <text x="800" y="470" font-size="64" letter-spacing="14" fill-opacity="0.75">SALINAS 4x4</text>
+    <text x="800" y="555" font-size="32" letter-spacing="22" fill-opacity="0.55">EXPERIENCE</text>
+    <text x="800" y="905" font-size="24" letter-spacing="8" fill="#696B65" font-family="Arial, sans-serif">ORIGINAL PHOTOGRAPHY COMING SOON</text>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Working drafts and unreferenced source assets are not part of the published site.
+Disallow: /_drafts/
